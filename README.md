@@ -3,8 +3,7 @@
 
 </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavan1639&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavan1639" /> </p>
-<img align="right" alt="Coding" width="400" src="http://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/19337796-Typing-animated-GIF">
 - 🔭 I’m currently working on **Python**
 
 - 🌱 I’m currently learning **TensorFlow, Pandas, Numpy**
