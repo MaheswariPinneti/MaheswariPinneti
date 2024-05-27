@@ -2,7 +2,7 @@
 <h3 align="center">Hi! 👋, I'm a Data Science enthusiast having extensive knowledge in Data Analytics and Statistics.
 
 </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavan1639&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavan1639" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavan1639&label=Profile%20views&color=0e75b6&style=flat" alt="Maheswari Pinneti" /> </p>
 <img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/19337796-Typing-animated-GIF">
 - 🔭 I’m currently working on **Python**
 
