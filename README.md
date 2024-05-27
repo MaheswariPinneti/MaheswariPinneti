@@ -3,7 +3,7 @@
 
 </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavan1639&label=Profile%20views&color=0e75b6&style=flat" alt="Maheswari Pinneti" /> </p>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/19337796-Typing-animated-GIF">
+<img align="right" alt="Coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=ptwmoIux&id=B9FB19EDCE2518E97C40038B4FBCC148190167D2&thid=OIP.ptwmoIuxhMF2vUINFJgptQHaHa&mediaurl=https%3a%2f%2fuser-images.githubusercontent.com%2f125878564%2f258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif&exph=640&expw=640&q=girl+programmer+gif+&simid=608036339012471352&FORM=IRPRST&ck=40DD1AFCD5C7E019864FAC1B1EB96B3D&selectedIndex=0&itb=0&ajaxhist=0&ajaxserp=0">
 - 🔭 I’m currently working on **Python**
 
 - 🌱 I’m currently learning **TensorFlow, Pandas, Numpy**
