@@ -17,7 +17,7 @@
 <a href="www.linkedin.com/in/maheswari-pinneti-03513b259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Maheswari Pinneti" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/maheswaripinneti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Maheswari Pinneti" height="30" width="40" /></a>
 <a href="https://www.facebook.com/share/Zv2i6kqfWwym3db5/?mibextid=qi2Omg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mahe Chowdary" height="30" width="40" /></a>
-<a href="https://www.instagram.com/maheswari_chowdary._?igsh=anUzdDR2bWk1eDAz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maheswari_chowdary._" height="30" width="40" /></a>
+<a href="https://www.instagram.com/maheswaripinneti0?igsh=anUzdDR2bWk1eDAz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maheswari_chowdary._" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
