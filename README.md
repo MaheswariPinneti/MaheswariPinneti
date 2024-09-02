@@ -2,13 +2,13 @@
 <h3 align="center">Hi! 👋, I am extremely motivated to constantly develop skills and grow professionally. I am confident in my ability to come up with interesting ideas and am focused.
 </h3>
 
-- 🔭 I’m currently working on **Python**
+- 🔭 I’m currently working on **Problem Solving|Web Development|Python**
 
 - 🌱 I’m currently learning **TensorFlow, Pandas, Numpy**
 
-- 💬 Ask me about **AI, Python**
+- 💬 Ask me about **Web Development, Python**
 
-- 📫 How to reach me **pinnetimaheswari@myyahoo.com**
+- 📫 How to reach me **pinnetimaheswari@gmail.com**
 
 - ⚡ Fun fact **The first song I can remember truly loving**
 
@@ -16,8 +16,8 @@
 <p align="left">
 <a href="www.linkedin.com/in/maheswari-pinneti-03513b259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Maheswari Pinneti" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/maheswaripinneti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Maheswari Pinneti" height="30" width="40" /></a>
-<a href="https://www.facebook.com/share/Zv2i6kqfWwym3db5/?mibextid=qi2Omg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mahe Chowdary" height="30" width="40" /></a>
-<a href="https://www.instagram.com/maheswaripinneti0?igsh=anUzdDR2bWk1eDAz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maheswari_chowdary._" height="30" width="40" /></a>
+<a href="https://www.facebook.com/share/Zv2i6kqfWwym3db5/?mibextid=qi2Omg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Maheswari Chowdary" height="30" width="40" /></a>
+<a href="https://www.instagram.com/maheswarichowdary0?igsh=anUzdDR2bWk1eDAz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maheswarichowdary0" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
