@@ -13,25 +13,26 @@
 
 <h3 align="center">📌 Connect with Me</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/maheswari-pinneti" target="blank">
+  <a href="https://www.linkedin.com/in/maheswari-pinneti" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
-  <a href="https://github.com/MaheswariPinneti" target="blank">
+  <a href="https://github.com/MaheswariPinneti" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/pinnetimaheswari" target="blank">
+  <a href="https://www.hackerrank.com/pinnetimaheswari" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40"/>
   </a>
-  <a href="https://leetcode.com/u/Maheswari_pinneti/" target="blank">
+  <a href="https://leetcode.com/u/Maheswari_pinneti/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40"/>
   </a>
-  <a href="https://codepen.io/PINNETI-MAHESWARI" target="blank">
+  <a href="https://codepen.io/PINNETI-MAHESWARI" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40"/>
   </a>
-  <a href="https://www.kaggle.com/maheswaripinneti" target="blank">
+  <a href="https://www.kaggle.com/maheswaripinneti" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40"/>
   </a>
 </p>
+
 
 ---
 
@@ -101,9 +102,10 @@
   <img src="https://leetcard.jacoblin.cool/Maheswari_pinneti?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
 </p>
 
-<h4 align="center">Kaggle</h4>
+<h4 align="center">Hackerrank</h4>
 <p align="center">
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/maheswaripinneti/competition" alt="Kaggle Competition Progress"/>
+    <img src="https://img.shields.io/badge/HackerRank-Profile-brightgreen?logo=hackerrank" alt="HackerRank Profile"/>
+  </a>
 </p>
 
 
