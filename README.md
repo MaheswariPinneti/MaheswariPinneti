@@ -39,7 +39,7 @@
 
 <p align="center">
   <strong>Web Development:</strong><br>
-  HTML | CSS | JavaScript | React | Bootstrap | Tailwind CSS | Power BI | Excel
+  HTML | CSS | JavaScript | React | Bootstrap | Tailwind CSS | Excel
 </p>
 
 <p align="center">
@@ -49,26 +49,22 @@
 
 <p align="center">
   <strong>Databases & DevOps:</strong><br>
-  SQL | MySQL | Firebase | AWS | Docker | Git | GitHub | Linux | Windows
+  SQL  | Git | GitHub | Windows
 </p>
 
 ---
 
 <h3 align="center">📌 Projects</h3>
 
-<p align="center">
   🚀 <strong>Deep Fake Face Detection using LSTM</strong> <br>
   🔗 <a href="https://github.com/MaheswariPinneti/deepfake-face-detection-using-LSTM">GitHub Repository</a> <br>
   - Developed a <strong>Deep Learning model</strong> using <strong>LSTM Networks</strong> to detect deep fake faces. <br>
   - Achieved <strong>95% accuracy</strong> in identifying manipulated facial images.
-</p>
 
-<p align="center">
   🎮 <strong>Computer-Driven Rock Paper Scissors</strong> <br>
   🔗 <a href="https://github.com/MaheswariPinneti/Computer---Driven-Rock-Paper-Scissor">GitHub Repository</a> <br>
   - Built an interactive <strong>AI-driven game</strong> that adapts difficulty based on user moves. <br>
   - Increased user engagement by <strong>40%</strong> with a <strong>personalized gameplay experience</strong>.
-</p>
 
 ---
 
@@ -84,7 +80,8 @@
 <h3 align="center> 🏆 Achievements</h3>
   
 <p align = "center">  
-  🎯 <strong>5★ Python</strong> @ HackerRank | <strong>6★ Problem Solving</strong> @ HackerRank <br>
+  🎯 <strong>5★ Python</strong> @ HackerRank <br>
+ <strong>6★ Problem Solving</strong> @ HackerRank <br>
   🔢 <strong>75+ LeetCode Problems Solved</strong>
 </p>
 
