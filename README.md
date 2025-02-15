@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maheswari Pinneti</h1>
 <h3 align="center">Aspiring Frontend Developer | AI/ML Enthusiast | Passionate about Problem-Solving</h3>
 
-<p align="center">
+<p align="left">
  🔭 I’m currently working on <strong>Deep Fake Face Detection | Web Development | AI/ML Projects</strong> <br>
  🌱 I’m currently learning <strong>TensorFlow, PyTorch, LSTM Networks, Pandas, Numpy</strong> <br>
  💬 Ask me about <strong>Frontend Development (React, JavaScript, HTML, CSS), Python, AI/ML</strong> <br>
@@ -35,26 +35,26 @@
 
 ---
 
-<h3 align="center">📌 Skills & Tools</h3>
+<h3 align="left">📌 Skills & Tools</h3>
 
-<p align="center">
+<p align="left">
   <strong>Web Development:</strong><br>
   HTML | CSS | JavaScript | React | Bootstrap | Tailwind CSS | Excel
 </p>
 
-<p align="center">
+<p align="left">
   <strong>Programming & AI/ML:</strong><br>
   Python | JavaScript | RPGLE | TensorFlow | PyTorch | LSTM Networks | Pandas | Numpy | Matplotlib | Scikit-learn
 </p>
 
-<p align="center">
+<p align="left">
   <strong>Databases & DevOps:</strong><br>
   SQL  | Git | GitHub | Windows
 </p>
 
 ---
 
-<h3 align="center">📌 Projects</h3>
+<h3 align="left">📌 Projects</h3>
 
   🚀 <strong>Deep Fake Face Detection using LSTM</strong> <br>
   🔗 <a href="https://github.com/MaheswariPinneti/deepfake-face-detection-using-LSTM">GitHub Repository</a> <br>
@@ -68,26 +68,28 @@
 
 ---
 
-<h3 align="center">📌 Certifications</h3>
+<h3 align="left">📌 Certifications</h3>
 
-<p align="center">
-  🏆 <strong>Generative AI</strong> - Google Cloud Skill Boost (Jan 2025) <br>
+<p align="left">
+  🏆 <strong>Google Cloud Generative AI</strong> - Skill Boost (Jan 2025) <br>
   🏆 <strong>Artificial Intelligence</strong> - 1Stop (May 2023) <br>
+  🎖 <strong>Deep Learning Specialization</strong> - Coursera | Andrew Ng <br>
+  📜 <strong>TensorFlow Developer Certification</strong> - Google <br>
+  💡 <strong>Frontend Web Development</strong> - Udacity Nanodegree <br>
 </p>
+
 
 ---
 
-<h3 align="center> 🏆 Achievements</h3>
-  
-<p align = "center">  
-  🎯 <strong>5★ Python</strong> @ HackerRank <br>
- <strong>6★ Problem Solving</strong> @ HackerRank <br>
-  🔢 <strong>75+ LeetCode Problems Solved</strong>
-</p>
+### 🏆 Achievements  
+- 🥇 **5★ Python** @ HackerRank  
+- 🥈 **6★ Problem Solving** @ HackerRank  
+- 🎯 **75+ LeetCode Problems Solved**  
+
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="left">📊 GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MaheswariPinneti&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
