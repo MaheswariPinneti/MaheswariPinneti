@@ -31,8 +31,13 @@
   <a href="https://www.kaggle.com/maheswaripinneti" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40"/>
   </a>
+  <a href="https://x.com/MAHESWARI9704" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X (Twitter)" height="30" width="40"/>
+  </a>
+  <a href="https://www.instagram.com/maheswari_pinneti?igsh=cmlxcHZtdXB0c2g0" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
+  </a>
 </p>
-
 
 ---
 
