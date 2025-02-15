@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maheswari Pinneti</h1>
 <h3 align="center">Aspiring Frontend Developer | AI/ML Enthusiast | Passionate about Problem-Solving</h3>
 
-- 🔭 I’m currently working on **Deep Fake Face Detection | Web Development | AI/ML Projects**
+- 🔭 I’m currently working on **Web Development | AI/ML Projects**
 - 🌱 I’m currently learning **TensorFlow, PyTorch, LSTM Networks, Pandas, Numpy**
 - 💬 Ask me about **Frontend Development (React, JavaScript, HTML, CSS), Python, AI/ML**
 - 📫 Reach me at **pinnetimaheswari17@gmail.com**
@@ -10,7 +10,7 @@
 ---
 
 ### **📌 Connect with Me:**
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/maheswari-pinneti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://github.com/MaheswariPinneti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/pinnetimaheswari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
@@ -20,25 +20,24 @@
 </p>
 
 ---
-
+<p align="center">
 ### **📌 Skills & Tools**
 #### **Web Development**
 - **Languages:** HTML, CSS, JavaScript, React
 - **Libraries & Frameworks:** Bootstrap, Tailwind CSS
 - **Data Visualization:** Power BI, Excel
+</p>
 
+<p align="center">
 #### **Programming & AI/ML**
 - **Languages:** Python, JavaScript, RPGLE
 - **AI/ML Tools:** TensorFlow, PyTorch, LSTM Networks, Numpy, Matplotlib, Pandas, Scikit-learn
 - **Databases:** SQL, MySQL, Firebase
 - **Version Control:** Git, GitHub
-
-#### **Other Tools**
-- **Cloud & DevOps:** AWS, Docker
-- **Operating Systems:** Linux, Windows
-
+</p>
 ---
 
+<p align="center">
 ### **📌 Projects**
 #### **🚀 Deep Fake Face Detection using LSTM**
 🔗 [GitHub Repository](https://github.com/MaheswariPinneti/deepfake-face-detection-using-LSTM)  
@@ -49,26 +48,27 @@
 🔗 [GitHub Repository](https://github.com/MaheswariPinneti/Computer---Driven-Rock-Paper-Scissor)  
 - Built an interactive **AI-driven game** that adapts difficulty based on user moves.
 - Increased user engagement by **40%** with a **personalized gameplay experience**.
-
+</p>
 ---
 
+<p align="center">
 ### **📌 Certifications**
 - 🏆 **Generative AI** - Google Cloud Skill Boost (Jan 2025)
 - 🏆 **Artificial Intelligence** - 1Stop (May 2023)
 - 🎯 **5★ Python** @ HackerRank | **6★ Problem Solving** @ HackerRank
 - 🔢 **75+ LeetCode Problems Solved**
-
+</p>
 ---
-
+<p align="center">
 ### **📊 GitHub Stats**
 ![Maheswari's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaheswariPinneti&show_icons=true&theme=radical)
-
+</p>
 ---
-
+<p align="center">
 ### **📌 How to Reach Me?**
 📧 **Email:** pinnetimaheswari17@gmail.com  
 🌏 **Portfolio (Coming Soon!)**  
-
+</p>
 ---
 
 ### 🚀 **Let’s build something amazing together!** 😃
