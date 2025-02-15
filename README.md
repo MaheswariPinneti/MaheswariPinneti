@@ -90,23 +90,10 @@
 <h3 align="center">🏆 Achievements</h3>
 
 <p align="center">
-  🥇 <strong>5★ Python</strong> @ HackerRank <br>
-  🥈 <strong>6★ Problem Solving</strong> @ HackerRank <br>
-  🎯 <strong>75+ LeetCode Problems Solved</strong> <br>
+  🥇 <strong>5★ Python</strong> @ HackerRank <img src="https://img.shields.io/badge/Python-5%E2%98%85-blue" /> <br>
+  🥈 <strong>6★ Problem Solving</strong> @ HackerRank <img src="https://img.shields.io/badge/Problem%20Solving-6%E2%98%85-orange" /> <br>
+  🎯 <strong>75+ LeetCode Problems Solved</strong> <img src="https://img.shields.io/badge/LeetCode-75%2B%20problems-green" /> <br>
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-5%E2%98%85-blue" />
-  <img src="https://img.shields.io/badge/Problem%20Solving-6%E2%98%85-orange" />
-  <img src="https://img.shields.io/badge/LeetCode-75%2B%20problems-green" />
-</p>
-
-<p align="center">
-  <img src="https://leetcode.com/medal/?showImg=0&id=5994673&isLevel=false" alt="LeetCode Badge 1"/>
-  <img src="https://leetcode.com/medal/?showImg=0&id=5993994&isLevel=false" alt="LeetCode Badge 2"/>
-</p>
-
-
 
 ---
 
