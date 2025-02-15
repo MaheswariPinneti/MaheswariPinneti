@@ -89,10 +89,23 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats</h3>
+<h3 align="center">📊 Stats</h3>
+
+<h4 align="center">GitHub</h4>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MaheswariPinneti&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
+
+<h4 align="center">LeetCode</h4>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Maheswari_pinneti?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
+</p>
+
+<h4 align="center">Kaggle</h4>
+<p align="center">
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/maheswaripinneti/competition" alt="Kaggle Competition Progress"/>
+</p>
+
 
 ---
 
