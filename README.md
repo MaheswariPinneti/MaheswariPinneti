@@ -38,13 +38,12 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40"/>
   </a>
   <a href="https://www.sololearn.com/en/profile/19162420" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sololearn_logo.png" alt="SoloLearn" height="40" width="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/SoloLearn_logo.png/512px-SoloLearn_logo.png" alt="SoloLearn" height="40" width="40"/>
   </a>
   <a href="https://dev.to/maheswaripinneti" target="_blank">
     <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Dev.to" height="40" width="40"/>
   </a>
 </p>
-
 
 ---
 
